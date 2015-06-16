@@ -1,0 +1,200 @@
+/* ADD YOUR STYLES HERE */
+body {
+	font-family: Helvetica;
+	margin: 10px;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;
+}
+
+/* ? */
+input[type="checkbox"] {
+	-webkit-appearance: checkbox;
+}
+
+.instructions-container {
+	margin: 20px auto;
+	max-width: 800px;
+}
+
+.instruction-list > li {
+	margin-bottom: 120px;
+}
+
+.instruction-text {
+	color: #369;
+	font-weight: 300;
+	font-size: 24px;
+}
+
+.instruction-answer {
+	margin-bottom: 60px;
+	overflow: hidden;
+}
+
+.instruction-answer-row {
+	padding:5px 50px 5px 50px;
+	border-bottom: 1px solid #d3d3d3;
+}
+
+.instruction-answer-last-row {
+	padding:5px 50px 5px 50px;
+	border-bottom:none;
+}
+
+.large-bold-text {
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.stats-row-top-bottom-line {
+	border-top: 1px solid #d3d3d3;
+	border-bottom: 1px solid #d3d3d3;
+}
+
+.small-gray-text {
+	font-size:12px;
+	color: #d3d3d3;
+}
+
+.padding-LR15 {
+	padding: 0px 15px 0px 15px;
+}
+
+.padding-LR20 {
+	padding: 0px 20px 0px 20px;
+}
+/*Bar Chart*/
+.td-width {
+	width:100%;
+}
+
+.javascript-bar-chart {
+	/*width:99%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+}
+
+.ruby-bar-chart {
+	/*width:57.1%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.java-bar-chart {
+	/*width:38.1%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.python-bar-chart {
+	/*width:38.1%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.shell-bar-chart {
+	/*width:38.1%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.php-bar-chart {
+	/*width:33.3%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.c-bar-chart {
+	/*width:28.8%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.cplusplus-bar-chart {
+	/*width:23.8%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.perl-bar-chart {
+	/*width:19%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+.objective-c-bar-chart {
+	/*width:14.3%;*/
+	color:white;
+	background:#4099ff;
+	padding-left: 5px;
+
+}
+
+
+tr th {
+	text-align:right;
+	padding-right:10px;
+	width:20%;
+}
+
+/****************Lightbox  **********/
+
+
+.box-black {
+	position:relative;
+	margin:auto;
+	height:200px;
+	background:#808080;
+}
+
+.box-white {
+	position:realtive;
+	margin:auto;
+}
+
+
+.button {
+	position:absolute;
+	position-top: 40px;
+	position-right:400px;
+	background: red;
+	opacity:0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
